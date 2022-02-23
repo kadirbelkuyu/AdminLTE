@@ -1,0 +1,7 @@
+################################################################################
+Kode comes with 12 color theme option and simple one page landing you may need.
+
+-- How to use color themes?
+Just copy theme .css and .less file into css folder.
+
+################################################################################

@@ -1,0 +1,38 @@
+————————————————————————————————————
+Version 1.3 Logs
+————————————————————————————————————
+__
+
+Minor bug about sidebar display none-block is fixed.
+example:___
+When you resize the window and trigger the show-hide sidebar button and 
+after this increase size the window the sidebar menu doesn’t show.
+
+Please update your “css/responsive.css” with new file or
+add the fix code. (line 30 to 35)
+__
+
+
+————————————————————————————————————
+Version 1.2 Logs
+————————————————————————————————————
+- Added Frontend Landing Template - You can find it on extras folder
+
+- Fixed z-index conflict on .sidepanel.
+  	How to update : 
+		-Open js/plugins.js on version 1.2
+		-Find /* Update Fixed */  Version 1.2 part.
+		-You will see the fix code.
+		-Add the code on your plugins.js
+
+- New Themes.
+	How to change current theme ?
+		-select which theme on themes file you want to change
+		-copy style.css and change as your main style.css
+		-if you edited css file, apply which part you edited.
+
+
+————————————————————————————————————
+Version 1.1 Logs
+————————————————————————————————————
+- Some bugs are fixed.
